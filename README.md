@@ -23,18 +23,16 @@ Steps to Run
 5. Run the application.
 
 -- Screenshots --
-
+Images in order:
 Pre roll
+Post roll 
+Post second roll
+
 <img width="360" height="800" alt="Screenshot 2025-11-06 122206" src="https://github.com/user-attachments/assets/07ff3165-75c6-4fb1-b680-eec3631d546d" />
 
-
-Post roll
 <img width="361" height="799" alt="Screenshot 2025-11-06 122215" src="https://github.com/user-attachments/assets/32011650-d69d-4cda-bc84-a353af8d59b6" />
 
-
-Post second roll
 <img width="361" height="800" alt="Screenshot 2025-11-06 122222" src="https://github.com/user-attachments/assets/b7cb8110-81e6-4507-931b-b5589586606d" />
-
 
 -- Video --
 
