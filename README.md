@@ -23,10 +23,8 @@ Steps to Run
 5. Run the application.
 
 -- Screenshots --
-Images in order:
-Pre roll
-Post roll 
-Post second roll
+
+Images in order: Pre roll, Post roll, and Post second roll
 
 <img width="360" height="800" alt="Screenshot 2025-11-06 122206" src="https://github.com/user-attachments/assets/07ff3165-75c6-4fb1-b680-eec3631d546d" />
 
