@@ -24,16 +24,25 @@ Steps to Run
 
 -- Screenshots --
 
-<img width="360" height="800" alt="Screenshot 2025-11-06 122206" src="https://github.com/user-attachments/assets/07ff3165-75c6-4fb1-b680-eec3631d546d" />
 Pre roll
+<img width="360" height="800" alt="Screenshot 2025-11-06 122206" src="https://github.com/user-attachments/assets/07ff3165-75c6-4fb1-b680-eec3631d546d" />
 
-<img width="361" height="799" alt="Screenshot 2025-11-06 122215" src="https://github.com/user-attachments/assets/32011650-d69d-4cda-bc84-a353af8d59b6" />
+
 Post roll
+<img width="361" height="799" alt="Screenshot 2025-11-06 122215" src="https://github.com/user-attachments/assets/32011650-d69d-4cda-bc84-a353af8d59b6" />
 
-<img width="361" height="800" alt="Screenshot 2025-11-06 122222" src="https://github.com/user-attachments/assets/b7cb8110-81e6-4507-931b-b5589586606d" />
+
 Post second roll
+<img width="361" height="800" alt="Screenshot 2025-11-06 122222" src="https://github.com/user-attachments/assets/b7cb8110-81e6-4507-931b-b5589586606d" />
+
 
 -- Video --
 
 https://github.com/user-attachments/assets/e7b4e268-c5ae-4a32-9408-aae1e21c0620
 
+-- Checklist -- 
+☑ App compiles and runs without crashes
+☑ Baseline features match the playlist app
+☑ One enhancement implemented and visible in the demo
+☑ Readme includes overview, features, setup, screenshots, and video link
+☑ APK uploaded; repo access granted
